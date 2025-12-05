@@ -1,4 +1,3 @@
-#pragma once
 #include "MyForwardList.hpp"
 #include <stdexcept>
 

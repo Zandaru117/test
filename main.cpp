@@ -1,10 +1,7 @@
 #include <iostream>
 #include "MyVector.hpp"
-#include "MyVector.tpp"
 #include "MyLinkingList.hpp"
-#include "MyLinkingList.tpp"
 #include "MyForwardList.hpp"
-#include "MyForwardList.tpp"
 
 void test(auto& cont, const char* name)
 {

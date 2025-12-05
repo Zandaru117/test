@@ -43,3 +43,5 @@ public:
 private:
     Node* get_node(size_t index);
 };
+
+#include "MyForwardList.tpp"

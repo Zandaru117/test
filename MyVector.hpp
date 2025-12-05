@@ -38,3 +38,4 @@ public:
     iterator begin() { return iterator(data_.get()); }
     iterator end() { return iterator(data_.get() + size_); }
 };
+#include "MyVector.tpp"
